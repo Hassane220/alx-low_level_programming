@@ -1,14 +1,9 @@
-#include <stdio.h>
-
 /**
+ *  main -Print a line of with puts function
  *
- *  * main -Print a line of with puts function
+ *   Return: 0
  *
- *   *
- *
- *    * Return: 0
- *
- *    */
+*/
 
 
 
